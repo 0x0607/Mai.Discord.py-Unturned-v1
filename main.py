@@ -25,7 +25,7 @@ class client(discord.Client):
               if response.status_code == 200:
                   unturned_status = response.json()
                   playersCount = str(unturned_status['players'])
-                  # channel_id = 1198176891295764580
+                  # channel_id = 0
                   # channel = self.get_channel(channel_id)
                   # if channel and (oldPlayersCount != playersCount):
                   #     await channel.edit(name="【👥】ＵＮ-online: "+playersCount)
