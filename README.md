@@ -1,2 +1,3 @@
-# Mai.Discord.py-Unturned-v1
-Get the number of players through unturned-server.net／透過 unturned-server.net 取得Unturned玩家數量
+You may need to install [python](https://www.python.org/downloads/) first  
+您可能要先安裝 [python](https://www.python.org/downloads/)  
+¯\\\_(ツ)\_/¯  
